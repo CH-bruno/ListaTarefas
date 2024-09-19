@@ -14,7 +14,7 @@ export const Routes = () => {
         {/* Define a rota inicial como a página de login */}
         <Route path="/login" element={<Login />} />
 
-        {/* Define uma rota para "/pagina-inicial", que renderiza o componente Dashboard */}
+        {/* Define uma rota para "/tarefas", que renderiza o componente Dashboard */}
         <Route path="/tarefas" element={<Dashboard />} />
         
         {/* Redireciona a rota padrão para a página de login */}
