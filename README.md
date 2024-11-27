@@ -57,8 +57,8 @@ yarn mock: Inicia o servidor JSON Server para mockar a API.
 
 ## 5.Contribuindo
 
-1.Faça um fork deste repositório.
-2.Crie uma nova branch (git checkout -b feature/nova-funcionalidade).
-3.Faça suas alterações e commit (git commit -am 'Adiciona nova funcionalidade').
-4.Envie para o repositório (git push origin feature/nova-funcionalidade).
-5.Abra um pull request.
+1. Faça um fork deste repositório.
+2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
+3. Faça suas alterações e commit (`git commit -am 'Adiciona nova funcionalidade'`).
+4. Envie para o repositório (`git push origin feature/nova-funcionalidade`).
+5. Abra um pull request.
