@@ -55,7 +55,7 @@ Scripts
 yarn start: Inicia a aplicação React.
 yarn mock: Inicia o servidor JSON Server para mockar a API.
 
-## 5.Contribuindo
+## 5. Contribuindo
 
 1. Faça um fork deste repositório.
 2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
